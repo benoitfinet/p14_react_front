@@ -1,0 +1,226 @@
+[
+    {
+        "stateName": "Alabama",
+        "stateID": 1
+    },
+    {
+        "stateName": "Alaska",
+        "stateID": 2
+    },
+    {
+        "stateName": "American Samoa",
+        "stateID": 3
+    },
+    {
+        "stateName": "Arizona",
+        "stateID": 4
+    },
+    {
+        "stateName": "Arkansas",
+        "stateID": 5
+    },
+    {
+        "stateName": "California",
+        "stateID": 6
+    },
+    {
+        "stateName": "Colorado",
+        "stateID": 7
+    },
+    {
+        "stateName": "Connecticut",
+        "stateID": 8
+    },
+    {
+        "stateName": "Delaware",
+        "stateID": 9
+    },
+    {
+        "stateName": "Distric of Columbia",
+        "stateID": 10
+    },
+    {
+        "stateName": "Federated States Of Micronesia",
+        "stateID": 11
+    },
+    {
+        "stateName": "Florida",
+        "stateID": 12
+    },
+    {
+        "stateName": "Georgia",
+        "stateID": 13
+    },
+    {
+        "stateName": "Guam",
+        "stateID": 14
+    },
+    {
+        "stateName": "Hawaii",
+        "stateID": 15
+    },
+    {
+        "stateName": "Idaho",
+        "stateID": 16
+    },
+    {
+        "stateName": "Kansas",
+        "stateID": 17
+    },
+    {
+        "stateName": "Kentucky",
+        "stateID": 18
+    },
+    {
+        "stateName": "Louisiana",
+        "stateID": 19
+    },
+    {
+        "stateName": "Maine",
+        "stateID": 20
+    },
+    {
+        "stateName": "Marshall Islands",
+        "stateID": 21
+    },
+    {
+        "stateName": "Maryland",
+        "stateID": 22
+    },
+    {
+        "stateName": "Massachusetts",
+        "stateID": 23
+    },
+    {
+        "stateName": "Michigan",
+        "stateID": 24
+    },
+    {
+        "stateName": "Minnesota",
+        "stateID": 25
+    },
+    {
+        "stateName": "Mississippi",
+        "stateID": 26
+    },
+    {
+        "stateName": "Missouri",
+        "stateID": 27
+    },
+    {
+        "stateName": "Montana",
+        "stateID": 28
+    },
+    {
+        "stateName": "Nebraska",
+        "stateID": 29
+    },
+    {
+        "stateName": "Nevada",
+        "stateID": 30
+    },
+    {
+        "stateName": "New Hampshire",
+        "stateID": 31
+    },
+    {
+        "stateName": "New Jersey",
+        "stateID": 32
+    },
+    {
+        "stateName": "New Mexico",
+        "stateID": 33
+    },
+    {
+        "stateName": "New York",
+        "stateID": 34
+    },
+    {
+        "stateName": "North Carolina",
+        "stateID": 35
+    },
+    {
+        "stateName": "North Dakota",
+        "stateID": 36
+    },
+    {
+        "stateName": "Northern Mariana Islands",
+        "stateID": 37
+    },
+    {
+        "stateName": "Ohio",
+        "stateID": 38
+    },
+    {
+        "stateName": "Oklahoma",
+        "stateID": 39
+    },
+    {
+        "stateName": "Oregon",
+        "stateID": 40
+    },
+    {
+        "stateName": "Palau",
+        "stateID": 41
+    },
+    {
+        "stateName": "Pennsylvania",
+        "stateID": 42
+    },
+    {
+        "stateName": "Puerto Rico",
+        "stateID": 43
+    },
+    {
+        "stateName": "Rhode Island",
+        "stateID": 44
+    },
+    {
+        "stateName": "South Carolina",
+        "stateID": 45
+    },
+    {
+        "stateName": "South Dakota",
+        "stateID": 46
+    },
+    {
+        "stateName": "Tennessee",
+        "stateID": 47
+    },
+    {
+        "stateName": "Texas",
+        "stateID": 48
+    },
+    {
+        "stateName": "Utah",
+        "stateID": 49
+    },
+    {
+        "stateName": "Vermont",
+        "stateID": 50
+    },
+    {
+        "stateName": "Virgin Islands",
+        "stateID": 51
+    },
+    {
+        "stateName": "Virginia",
+        "stateID": 52
+    },
+    {
+        "stateName": "Washington",
+        "stateID": 53
+    },
+    {
+        "stateName": "West Virginia",
+        "stateID": 54
+    },
+    {
+        "stateName": "Wysconsin",
+        "stateID": 55
+    },
+    {
+        "stateName": "Wyoming",
+        "stateID": 56
+    }
+]

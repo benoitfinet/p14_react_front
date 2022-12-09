@@ -1,0 +1,43 @@
+@import '../../assets/sass/variables.scss';
+
+.mainPage {
+    display: flex;
+    justify-content: center;
+    margin: 3em;
+
+    &__form {
+        background-color: $backColor;
+        padding: 1em;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+        &--fieldset {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+    }
+}
+
+.input {
+    border-color: $backColor;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 0.5em;
+    justify-content: center;
+}
+
+.submitButton {
+    margin-top: 1em;
+    text-align: center;
+
+    &__style {
+        background-color: $otherColor;
+        border-radius: 10px;
+        padding: 1em;
+        color: $textColor;
+        font-weight: 600;
+        border-color: $backColor;
+    }
+}

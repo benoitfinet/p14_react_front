@@ -1,0 +1,22 @@
+@import '../../assets/sass/variables.scss';
+
+.header {
+    background-color: $otherColor;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+
+    &__name {
+        margin: 0;
+        font-weight: 700;
+        font-size: 34px;
+        color: $textColor;
+    }
+
+    &__page {
+        margin: 0;
+        font-weight: 700;
+        font-size: 34px;
+        color: $textColor;
+    }
+}
