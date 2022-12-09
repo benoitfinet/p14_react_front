@@ -1,6 +1,14 @@
 import './header.scss'
 import { Link } from 'react-router-dom'
 
+/**
+ * 
+ * @param {string} page : name of the actual page
+ * @param {string} goTo : string for the link of the other page
+ * @param {string} link : link for the other page
+ * @returns Header with dynamic name of page and link to the other one
+ */
+
 function Header({ page, goTo, link }) {
 
     return (

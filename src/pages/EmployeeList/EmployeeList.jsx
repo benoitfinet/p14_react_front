@@ -4,6 +4,11 @@ import React from 'react';
 import { useSelector } from "react-redux";
 import Header from '../../components/Header/Header';
 
+/**
+ * 
+ * @returns Page with a table showing all employees created with the form from the CreateEmployee page
+ */
+
 function EmployeeList() {
 
     const testData = useSelector((state) => state.createEmployee);
@@ -13,11 +18,12 @@ function EmployeeList() {
         [testData.inputState]
     )
 
+    //set the header of the table, by naming header by ourself, but using 'accessor' as a link with datas stored in redux
     const columns = React.useMemo(
         () => [
             {
                 Header: 'First Name',
-                accessor: 'firstNameInput', // accessor is the "key" in the data
+                accessor: 'firstNameInput', // accessor is the "key" in the data (here the store of redux)
             },
             {
                 Header: 'Last Name',
@@ -55,6 +61,7 @@ function EmployeeList() {
         []
     )
 
+    //set all functionnality we need from the library react-table
     const {
         getTableProps,
         getTableBodyProps,

@@ -7,6 +7,11 @@ import departments from '../../assets/datas/department.json';
 import Header from '../../components/Header/Header';
 import Modal from 'modal-library-ocrbfp14/dist/Modal';
 
+/**
+ * 
+ * @returns Page with form for create a new employee
+ */
+
 function CreateEmployee() {
     const formReset = document.getElementById('form');
     const dispatch = useDispatch();
@@ -21,6 +26,7 @@ function CreateEmployee() {
     const [birthDateInput, setBirthDateInput] = useState('');
     const [isModalOpen, setIsModalOpen] = useState(false)
 
+    //use to change state of our modal
     function openModal() {
         setIsModalOpen(true);
     }
@@ -30,6 +36,7 @@ function CreateEmployee() {
         setIsModalOpen(false);
     }
 
+    //function use to submit our form, by dispatching the action with redux
     const handleSubmitForm = e => {
         e.preventDefault();
         dispatch(validate({
